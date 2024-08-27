@@ -49,8 +49,7 @@ python3 -m unittest discover -s tests -p "test_*.py"
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## pyproject.toml
-pip install .       
+     
 
 
 ##  How to Run the Code?
