@@ -60,3 +60,12 @@ Navigate to the project directory:
 cd Formulamonk_updated/formula_monk_assessment
 Run the main Python script:
 python Main.py
+## Run Wheel
+# Navigate to the project root
+cd /path/to/FormulaMonk_Updated
+
+# Install build tools if not already installed
+pip install build setuptools wheel
+
+# Build the package
+python -m build --wheel
