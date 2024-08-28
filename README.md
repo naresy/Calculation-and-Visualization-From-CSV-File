@@ -54,7 +54,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ##  How to Run the Code?
 Clone the repository to your local machine:
-git clone https://github.com/naresy/FormulaMonk_Updated.git
+git clone https://github.com/naresy/Calculation-and-Visualization-From-CSV-File.git
 Navigate to the project directory:
 cd Formulamonk_updated/formula_monk_assessment
 Run the main Python script:
