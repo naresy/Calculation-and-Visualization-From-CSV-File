@@ -1,4 +1,4 @@
-# Calculation-and-Visulation-From-CSV-File Using wheel Package
+# Calculation-and-Visualization-From-CSV-File Using wheel Package
 
 This package provides functionalities to analyze Apple time series data. It includes modules for data processing, statistical calculations, visualization, and analysis.
 
